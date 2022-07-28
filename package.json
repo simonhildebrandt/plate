@@ -16,6 +16,7 @@
     "esbuild": "^0.14.18",
     "live-server": "^1.2.1",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.3.5"
   }
 }
